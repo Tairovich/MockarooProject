@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49560" started-at="2018-11-10T19:09:44Z" finished-at="2018-11-10T19:10:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49560" started-at="2018-11-10T19:09:44Z" finished-at="2018-11-10T19:10:33Z">
+      <class name="com.mockaroo.MockarooDataValidation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="setUp" is-config="true" duration-ms="9006" started-at="2018-11-10T19:09:44Z" finished-at="2018-11-10T19:09:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="titleVerification()[pri:0, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="titleVerification" duration-ms="4525" started-at="2018-11-10T19:09:53Z" finished-at="2018-11-10T19:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleVerification -->
+        <test-method status="PASS" signature="logoVerification()[pri:1, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="logoVerification" duration-ms="650" started-at="2018-11-10T19:09:57Z" finished-at="2018-11-10T19:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoVerification -->
+        <test-method status="PASS" signature="removeFields()[pri:2, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="removeFields" duration-ms="14497" started-at="2018-11-10T19:09:58Z" finished-at="2018-11-10T19:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- removeFields -->
+        <test-method status="PASS" signature="assertNameTypeOption()[pri:3, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="assertNameTypeOption" duration-ms="415" started-at="2018-11-10T19:10:12Z" finished-at="2018-11-10T19:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- assertNameTypeOption -->
+        <test-method status="PASS" signature="addAnotherField()[pri:4, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="addAnotherField" duration-ms="116" started-at="2018-11-10T19:10:13Z" finished-at="2018-11-10T19:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAnotherField -->
+        <test-method status="PASS" signature="rowNumber()[pri:5, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="rowNumber" duration-ms="94" started-at="2018-11-10T19:10:13Z" finished-at="2018-11-10T19:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rowNumber -->
+        <test-method status="PASS" signature="formatValue()[pri:6, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="formatValue" duration-ms="323" started-at="2018-11-10T19:10:13Z" finished-at="2018-11-10T19:10:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- formatValue -->
+        <test-method status="PASS" signature="lineEnding()[pri:7, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="lineEnding" duration-ms="297" started-at="2018-11-10T19:10:13Z" finished-at="2018-11-10T19:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lineEnding -->
+        <test-method status="PASS" signature="headerAndBom()[pri:8, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="headerAndBom" duration-ms="230" started-at="2018-11-10T19:10:14Z" finished-at="2018-11-10T19:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerAndBom -->
+        <test-method status="PASS" signature="addingAnotherField()[pri:9, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="addingAnotherField" duration-ms="18735" started-at="2018-11-10T19:10:14Z" finished-at="2018-11-10T19:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addingAnotherField -->
+        <test-method status="PASS" signature="readExcelFile()[pri:10, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="readExcelFile" duration-ms="9" started-at="2018-11-10T19:10:33Z" finished-at="2018-11-10T19:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readExcelFile -->
+        <test-method status="PASS" signature="addCityandCountry()[pri:11, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="addCityandCountry" duration-ms="95" started-at="2018-11-10T19:10:33Z" finished-at="2018-11-10T19:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCityandCountry -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.mockaroo.MockarooDataValidation@685cb137]" name="tearDown" is-config="true" duration-ms="407" started-at="2018-11-10T19:10:33Z" finished-at="2018-11-10T19:10:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.mockaroo.MockarooDataValidation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
