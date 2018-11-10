@@ -1,9 +1,6 @@
 .settings
-bin/
 target/test-classes/com/mockaroo
 test-output
 .classpath
 .project
 pom.xml
-
-.DS_Store
